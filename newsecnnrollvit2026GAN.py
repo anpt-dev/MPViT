@@ -422,7 +422,7 @@ class SEROLLMPViTGA(nn.Module):
         
         return x
 
-# Kiểm thử:
+# test model:
 # model = HybridSEROLLPViT()
 # dummy = torch.randn(2, 3, 224, 224)
 # out = model(dummy)
