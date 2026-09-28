@@ -5,6 +5,7 @@ As illustrated in the figure, the proposed architecture adopts a hierarchical CN
 Fig. 1. Overvew Architecture
 
 Patch Mixing mechanism
+
 <img width="527" height="213" alt="Fig 4" src="https://github.com/user-attachments/assets/19581fd5-4055-4a34-b642-43b8a729d306" />
 Fig. 2. Patch Mixing
 
