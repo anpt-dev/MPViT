@@ -353,7 +353,7 @@ class Stage4HybridBlock(nn.Module):
         return x
 
 # ==========================================
-# 3. KIẾN TRÚC TỔNG THỂ (HYBRID MODEL)
+# 3. KIẾN TRÚC TỔNG THỂ (HYBRID MODEL) MPViT
 # ==========================================
 
 class SEROLLMPViTGA(nn.Module):
