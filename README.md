@@ -3,8 +3,10 @@ As illustrated in the figure, the proposed architecture adopts a hierarchical CN
 
 <img width="831" height="499" alt="image" src="https://github.com/user-attachments/assets/a3c7fd3c-2160-439b-b729-2ba8c862c484" />
 Fig. 1. Overvew Architecture
+
 Patch Mixing mechanism
 <img width="527" height="213" alt="Fig 4" src="https://github.com/user-attachments/assets/19581fd5-4055-4a34-b642-43b8a729d306" />
+Fig. 2. Patch Mixing
 
 Checkpoint on Imagenet_1K (100 epoches) https://drive.google.com/file/d/1_g9n6Jwz5GM5PCjm_ZnB9UfELwi7y_nP/view?usp=sharing
 
